@@ -14,14 +14,14 @@ Esta investigación cubre los conceptos esenciales para la gestión de versiones
 
 ## 1. Conceptos Clave
 
-### 🚀 Repository (Repositorio)
+###  Repository (Repositorio)
 Es el contenedor donde se almacena el proyecto. Contiene no solo los archivos actuales, sino todo el **historial de cambios** desde el primer día. 
 *   **Local:** Ubicado en tu máquina personal.
 *   **Remoto:** Alojado en plataformas como GitHub para colaboración.
 
 
 
-### 📸 Commit (Confirmación)
+###  Commit (Confirmación)
 Un commit es un registro de los cambios realizados. Es como guardar una partida en un videojuego; te permite volver a ese punto exacto en cualquier momento. Cada commit debe ir acompañado de un mensaje descriptivo.
 
 ### 🌿 Branch (Rama)
@@ -29,7 +29,7 @@ Es una línea de tiempo independiente. La rama principal (usualmente `main`) con
 
 
 
-### 🔃 Pull Request (PR)
+###  Pull Request (PR)
 Es una solicitud para fusionar los cambios de una rama a otra. Es el corazón de la colaboración, ya que permite que otros revisen tu código, sugieran cambios y aseguren la calidad antes de integrar las mejoras.
 
 ### 🍴 Fork (Bifurcación)
@@ -64,6 +64,6 @@ Al trabajar en la rama `desarrollo`, la rama **principal** permanece en un estad
 *   **Divergencia:** El historial del proyecto ahora tiene dos caminos; solo se volverán a unir cuando se realice un *Merge* o se apruebe un *Pull Request*.
 
 ---
-**Elaborado por:** Eduardo  
+**Elaborado por:** Eduardo Cliente frecuente 
 **Institución:** CBTis 78  
 **Fecha:** Mayo 2026
