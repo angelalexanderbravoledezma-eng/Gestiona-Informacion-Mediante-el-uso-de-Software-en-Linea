@@ -65,5 +65,6 @@ Al trabajar en la rama `desarrollo`, la rama **principal** permanece en un estad
 
 ---
 **Elaborado por:** Eduardo Cliente frecuente 
+
 **Institución:** CBTis 78  
 **Fecha:** Mayo 2026
